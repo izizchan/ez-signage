@@ -1,7 +1,7 @@
 {
-    "versionCode":  207,
-    "versionName":  "3.83",
+    "versionCode":  208,
+    "versionName":  "3.84",
     "apk":  "ezsignage.apk",
-    "note":  "共有をOneShotで受ける・並び順の調整",
-    "releasedAt":  "2026-09-05 22:28"
+    "note":  "停止中もリーダーを見失わない/書込完了の誤表示を直す",
+    "releasedAt":  "2026-09-05 22:42"
 }
