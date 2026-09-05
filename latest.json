@@ -1,7 +1,7 @@
 {
-    "versionCode":  208,
-    "versionName":  "3.84",
+    "versionCode":  209,
+    "versionName":  "3.85",
     "apk":  "ezsignage.apk",
-    "note":  "停止中もリーダーを見失わない/書込完了の誤表示を直す",
-    "releasedAt":  "2026-09-05 22:42"
+    "note":  "使うリーダーをトグルに統一",
+    "releasedAt":  "2026-09-05 22:47"
 }
