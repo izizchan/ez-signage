@@ -1,7 +1,7 @@
 {
-    "versionCode":  206,
-    "versionName":  "3.82",
+    "versionCode":  207,
+    "versionName":  "3.83",
     "apk":  "ezsignage.apk",
-    "note":  "モードの並びを変更・既定をOneShotに",
-    "releasedAt":  "2026-09-05 22:22"
+    "note":  "共有をOneShotで受ける・並び順の調整",
+    "releasedAt":  "2026-09-05 22:28"
 }
