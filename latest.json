@@ -1,7 +1,7 @@
 {
-    "versionCode":  212,
-    "versionName":  "3.88",
+    "versionCode":  213,
+    "versionName":  "3.89",
     "apk":  "ezsignage.apk",
-    "note":  "再書出しは前回の1枚を書く/絵文字を80個4ページに",
-    "releasedAt":  "2026-09-05 23:15"
+    "note":  "情報表示の切替間隔を設定へ移し、操作面は内容の選択に絞る",
+    "releasedAt":  "2026-09-05 23:29"
 }
