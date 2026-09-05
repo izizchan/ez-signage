@@ -1,7 +1,7 @@
 {
-    "versionCode":  210,
-    "versionName":  "3.86",
+    "versionCode":  211,
+    "versionName":  "3.87",
     "apk":  "ezsignage.apk",
-    "note":  "OneShotを書出し/再書出しに整理し絵文字パレットを追加",
-    "releasedAt":  "2026-09-05 23:05"
+    "note":  "カーソル行の印を反転色に/全て書込済の案内/停止中は離す案内を出さない",
+    "releasedAt":  "2026-09-05 23:08"
 }
