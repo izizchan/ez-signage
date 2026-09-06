@@ -1,7 +1,7 @@
 {
-    "versionCode":  245,
-    "versionName":  "4.21",
+    "versionCode":  246,
+    "versionName":  "4.22",
     "apk":  "ezsignage.apk",
-    "note":  "消しゴムに網点が効かなかったのを直す",
-    "releasedAt":  "2026-09-07 00:06"
+    "note":  "画面を消しても絵が消えないようにした",
+    "releasedAt":  "2026-09-07 00:18"
 }
