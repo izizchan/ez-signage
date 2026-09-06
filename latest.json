@@ -1,7 +1,7 @@
 {
-    "versionCode":  214,
-    "versionName":  "3.90",
+    "versionCode":  215,
+    "versionName":  "3.91",
     "apk":  "ezsignage.apk",
-    "note":  "OneShotの誤書込を止め、音量ボタンと絵文字パレットを直す",
-    "releasedAt":  "2026-09-06 01:07"
+    "note":  "3.90で起動できなくなったのを直す",
+    "releasedAt":  "2026-09-06 13:04"
 }
