@@ -1,7 +1,7 @@
 {
-    "versionCode":  217,
-    "versionName":  "3.93",
+    "versionCode":  218,
+    "versionName":  "3.94",
     "apk":  "ezsignage.apk",
-    "note":  "項目別設定を一覧の中で開く/コメ表示をライブコメントに",
-    "releasedAt":  "2026-09-06 13:26"
+    "note":  "2台リーダー: ページ以外は両方へ同じ絵を配る",
+    "releasedAt":  "2026-09-06 13:35"
 }
