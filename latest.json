@@ -1,7 +1,7 @@
 {
-    "versionCode":  219,
-    "versionName":  "3.95",
+    "versionCode":  220,
+    "versionName":  "3.96",
     "apk":  "ezsignage.apk",
-    "note":  "⚙は一覧を差し替え/取得し直しボタン/音量ボタンを画面OFFでも",
-    "releasedAt":  "2026-09-06 14:46"
+    "note":  "絞込/禁止ワードの役割を正す/APIキーは設定済みならたたむ/フォントサイズを1行に",
+    "releasedAt":  "2026-09-06 15:05"
 }
