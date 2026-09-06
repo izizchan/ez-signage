@@ -1,7 +1,7 @@
 {
-    "versionCode":  240,
-    "versionName":  "4.16",
+    "versionCode":  241,
+    "versionName":  "4.17",
     "apk":  "ezsignage.apk",
-    "note":  "タイトルの余計な副題を外す",
-    "releasedAt":  "2026-09-06 19:39"
+    "note":  "網点の塗りつぶしが間引いた画素を消していたのを直す",
+    "releasedAt":  "2026-09-06 19:54"
 }
