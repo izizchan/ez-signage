@@ -1,7 +1,7 @@
 {
-    "versionCode":  236,
-    "versionName":  "4.12",
+    "versionCode":  237,
+    "versionName":  "4.13",
     "apk":  "ezsignage.apk",
-    "note":  "色ボタンを塗りつぶしに、選択中は緑の縁取りに",
-    "releasedAt":  "2026-09-06 18:58"
+    "note":  "12%網点、道具の並べ直し、紙の読み書き（300x400 PNG）",
+    "releasedAt":  "2026-09-06 19:16"
 }
