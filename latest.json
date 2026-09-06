@@ -1,7 +1,7 @@
 {
-    "versionCode":  233,
-    "versionName":  "4.09",
+    "versionCode":  234,
+    "versionName":  "4.10",
     "apk":  "ezsignage.apk",
-    "note":  "色と網点をキャンバスの横へ縦に、横並びは9個、ペンは筆に",
-    "releasedAt":  "2026-09-06 18:28"
+    "note":  "極太を足す（太の倍）",
+    "releasedAt":  "2026-09-06 18:30"
 }
