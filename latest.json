@@ -1,7 +1,7 @@
 {
-    "versionCode":  237,
-    "versionName":  "4.13",
+    "versionCode":  238,
+    "versionName":  "4.14",
     "apk":  "ezsignage.apk",
-    "note":  "12%網点、道具の並べ直し、紙の読み書き（300x400 PNG）",
-    "releasedAt":  "2026-09-06 19:16"
+    "note":  "紙の読み込みの減色をConvertに寄せる",
+    "releasedAt":  "2026-09-06 19:23"
 }
