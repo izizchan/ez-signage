@@ -1,7 +1,7 @@
 {
-    "versionCode":  244,
-    "versionName":  "4.20",
+    "versionCode":  245,
+    "versionName":  "4.21",
     "apk":  "ezsignage.apk",
-    "note":  "ズームと位置パッド、全Cボタン、下段のレイアウト変更",
-    "releasedAt":  "2026-09-06 22:17"
+    "note":  "消しゴムに網点が効かなかったのを直す",
+    "releasedAt":  "2026-09-07 00:06"
 }
