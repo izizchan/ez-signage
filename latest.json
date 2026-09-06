@@ -1,7 +1,7 @@
 {
-    "versionCode":  243,
-    "versionName":  "4.19",
+    "versionCode":  244,
+    "versionName":  "4.20",
     "apk":  "ezsignage.apk",
-    "note":  "塗りつぶしの範囲を合成した見た目で決める",
-    "releasedAt":  "2026-09-06 20:56"
+    "note":  "ズームと位置パッド、全Cボタン、下段のレイアウト変更",
+    "releasedAt":  "2026-09-06 22:17"
 }
