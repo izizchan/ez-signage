@@ -1,7 +1,7 @@
 {
-    "versionCode":  220,
-    "versionName":  "3.96",
+    "versionCode":  221,
+    "versionName":  "3.97",
     "apk":  "ezsignage.apk",
-    "note":  "絞込/禁止ワードの役割を正す/APIキーは設定済みならたたむ/フォントサイズを1行に",
-    "releasedAt":  "2026-09-06 15:05"
+    "note":  "設定の値選択を1行に/開始ボタンを⚙へ/URLの右にクリア",
+    "releasedAt":  "2026-09-06 15:37"
 }
