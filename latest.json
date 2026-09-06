@@ -1,7 +1,7 @@
 {
-    "versionCode":  235,
-    "versionName":  "4.11",
+    "versionCode":  236,
+    "versionName":  "4.12",
     "apk":  "ezsignage.apk",
-    "note":  "戻すを足す（10手前まで）",
-    "releasedAt":  "2026-09-06 18:45"
+    "note":  "色ボタンを塗りつぶしに、選択中は緑の縁取りに",
+    "releasedAt":  "2026-09-06 18:58"
 }
