@@ -1,7 +1,7 @@
 {
-    "versionCode":  218,
-    "versionName":  "3.94",
+    "versionCode":  219,
+    "versionName":  "3.95",
     "apk":  "ezsignage.apk",
-    "note":  "2台リーダー: ページ以外は両方へ同じ絵を配る",
-    "releasedAt":  "2026-09-06 13:35"
+    "note":  "⚙は一覧を差し替え/取得し直しボタン/音量ボタンを画面OFFでも",
+    "releasedAt":  "2026-09-06 14:46"
 }
