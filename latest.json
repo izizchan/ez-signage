@@ -1,7 +1,7 @@
 {
-    "versionCode":  224,
-    "versionName":  "4.00",
+    "versionCode":  225,
+    "versionName":  "4.01",
     "apk":  "ezsignage.apk",
-    "note":  "背景色を1行に/チャンネルIDと件数の行を消す",
-    "releasedAt":  "2026-09-06 15:51"
+    "note":  "音量ボタンは音量そのものを見張る方式に変更",
+    "releasedAt":  "2026-09-06 16:10"
 }
