@@ -1,7 +1,7 @@
 {
-    "versionCode":  229,
-    "versionName":  "4.05",
+    "versionCode":  230,
+    "versionName":  "4.06",
     "apk":  "ezsignage.apk",
-    "note":  "フォルダを選んでも書き始めない/入り口のチップを光らせない",
-    "releasedAt":  "2026-09-06 17:40"
+    "note":  "OneShotに絵を描くを足す（4色・3段ペン・塗りつぶし・2枚・下敷き）",
+    "releasedAt":  "2026-09-06 17:51"
 }
