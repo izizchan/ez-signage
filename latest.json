@@ -1,7 +1,7 @@
 {
-    "versionCode":  238,
-    "versionName":  "4.14",
+    "versionCode":  239,
+    "versionName":  "4.15",
     "apk":  "ezsignage.apk",
-    "note":  "紙の読み込みの減色をConvertに寄せる",
-    "releasedAt":  "2026-09-06 19:23"
+    "note":  "紙という言い換えをやめ、レイヤーにそろえる",
+    "releasedAt":  "2026-09-06 19:26"
 }
