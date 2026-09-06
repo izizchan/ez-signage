@@ -1,7 +1,7 @@
 {
-    "versionCode":  231,
-    "versionName":  "4.07",
+    "versionCode":  232,
+    "versionName":  "4.08",
     "apk":  "ezsignage.apk",
-    "note":  "お絵描きを道具1行＋600x800縦長キャンバスに",
-    "releasedAt":  "2026-09-06 18:07"
+    "note":  "消しゴムを色に足して14個に、消し中は地色を押せなくする",
+    "releasedAt":  "2026-09-06 18:11"
 }
