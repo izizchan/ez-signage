@@ -1,7 +1,7 @@
 {
-    "versionCode":  239,
-    "versionName":  "4.15",
+    "versionCode":  240,
+    "versionName":  "4.16",
     "apk":  "ezsignage.apk",
-    "note":  "紙という言い換えをやめ、レイヤーにそろえる",
-    "releasedAt":  "2026-09-06 19:26"
+    "note":  "タイトルの余計な副題を外す",
+    "releasedAt":  "2026-09-06 19:39"
 }
