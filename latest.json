@@ -1,7 +1,7 @@
 {
-    "versionCode":  230,
-    "versionName":  "4.06",
+    "versionCode":  231,
+    "versionName":  "4.07",
     "apk":  "ezsignage.apk",
-    "note":  "OneShotに絵を描くを足す（4色・3段ペン・塗りつぶし・2枚・下敷き）",
-    "releasedAt":  "2026-09-06 17:51"
+    "note":  "お絵描きを道具1行＋600x800縦長キャンバスに",
+    "releasedAt":  "2026-09-06 18:07"
 }
