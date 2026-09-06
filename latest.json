@@ -1,7 +1,7 @@
 {
-    "versionCode":  216,
-    "versionName":  "3.92",
+    "versionCode":  217,
+    "versionName":  "3.93",
     "apk":  "ezsignage.apk",
-    "note":  "APIキーは元ファイルへ暗号化して書き戻す/情報表示の間隔に停止を追加",
-    "releasedAt":  "2026-09-06 13:20"
+    "note":  "項目別設定を一覧の中で開く/コメ表示をライブコメントに",
+    "releasedAt":  "2026-09-06 13:26"
 }
