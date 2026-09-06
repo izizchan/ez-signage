@@ -1,7 +1,7 @@
 {
-    "versionCode":  223,
-    "versionName":  "3.99",
+    "versionCode":  224,
+    "versionName":  "4.00",
     "apk":  "ezsignage.apk",
-    "note":  "ライブコメントの青い枠と見出しを外す",
-    "releasedAt":  "2026-09-06 15:46"
+    "note":  "背景色を1行に/チャンネルIDと件数の行を消す",
+    "releasedAt":  "2026-09-06 15:51"
 }
