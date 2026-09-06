@@ -1,7 +1,7 @@
 {
-    "versionCode":  221,
-    "versionName":  "3.97",
+    "versionCode":  222,
+    "versionName":  "3.98",
     "apk":  "ezsignage.apk",
-    "note":  "設定の値選択を1行に/開始ボタンを⚙へ/URLの右にクリア",
-    "releasedAt":  "2026-09-06 15:37"
+    "note":  "音量ボタン: 音声の優先権も取る",
+    "releasedAt":  "2026-09-06 15:44"
 }
