@@ -1,7 +1,7 @@
 {
-    "versionCode":  215,
-    "versionName":  "3.91",
+    "versionCode":  216,
+    "versionName":  "3.92",
     "apk":  "ezsignage.apk",
-    "note":  "3.90で起動できなくなったのを直す",
-    "releasedAt":  "2026-09-06 13:04"
+    "note":  "APIキーは元ファイルへ暗号化して書き戻す/情報表示の間隔に停止を追加",
+    "releasedAt":  "2026-09-06 13:20"
 }
