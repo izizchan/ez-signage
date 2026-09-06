@@ -1,7 +1,7 @@
 {
-    "versionCode":  234,
-    "versionName":  "4.10",
+    "versionCode":  235,
+    "versionName":  "4.11",
     "apk":  "ezsignage.apk",
-    "note":  "極太を足す（太の倍）",
-    "releasedAt":  "2026-09-06 18:30"
+    "note":  "戻すを足す（10手前まで）",
+    "releasedAt":  "2026-09-06 18:45"
 }
