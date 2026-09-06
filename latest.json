@@ -1,7 +1,7 @@
 {
-    "versionCode":  228,
-    "versionName":  "4.04",
+    "versionCode":  229,
+    "versionName":  "4.05",
     "apk":  "ezsignage.apk",
-    "note":  "災害速報の取得を通信できる筋で行い、取れなかった理由を出す",
-    "releasedAt":  "2026-09-06 17:24"
+    "note":  "フォルダを選んでも書き始めない/入り口のチップを光らせない",
+    "releasedAt":  "2026-09-06 17:40"
 }
