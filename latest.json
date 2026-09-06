@@ -1,7 +1,7 @@
 {
-    "versionCode":  225,
-    "versionName":  "4.01",
+    "versionCode":  226,
+    "versionName":  "4.02",
     "apk":  "ezsignage.apk",
-    "note":  "音量ボタンは音量そのものを見張る方式に変更",
-    "releasedAt":  "2026-09-06 16:10"
+    "note":  "開始した直後もカウントダウンを出す",
+    "releasedAt":  "2026-09-06 16:41"
 }
