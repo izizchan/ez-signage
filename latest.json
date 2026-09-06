@@ -1,7 +1,7 @@
 {
-    "versionCode":  226,
-    "versionName":  "4.02",
+    "versionCode":  227,
+    "versionName":  "4.03",
     "apk":  "ezsignage.apk",
-    "note":  "開始した直後もカウントダウンを出す",
-    "releasedAt":  "2026-09-06 16:41"
+    "note":  "災害速報を実装（地震と気象を1つの欄に）",
+    "releasedAt":  "2026-09-06 16:59"
 }
