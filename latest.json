@@ -1,7 +1,7 @@
 {
-    "versionCode":  241,
-    "versionName":  "4.17",
+    "versionCode":  242,
+    "versionName":  "4.18",
     "apk":  "ezsignage.apk",
-    "note":  "網点の塗りつぶしが間引いた画素を消していたのを直す",
-    "releasedAt":  "2026-09-06 19:54"
+    "note":  "太さを選んだら筆に戻す",
+    "releasedAt":  "2026-09-06 20:54"
 }
